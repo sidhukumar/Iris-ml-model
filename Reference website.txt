@@ -1,0 +1,6 @@
+https://github.com/sidhukumar/pipelines-azureml/blob/master/models/diabetes/score.py
+
+https://github.com/sidhukumar/MLOps-IRIS/blob/master/inference/score.py
+
+
+https://github.com/janakiramm/azureml-tutorial/blob/master/Azure/score.py
